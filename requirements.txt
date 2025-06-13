@@ -1,0 +1,13 @@
+openai
+pillow
+langchain
+langchain-community
+langchain-google-genai
+langchain-openai
+pypdf
+pymupdf
+faiss-cpu
+openpyxl
+streamlit
+langchain_google_genai
+rank_bm25
